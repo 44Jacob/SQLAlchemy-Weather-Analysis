@@ -14,7 +14,7 @@ Connected to a climate database.
 
 Analyzed precipitation and weather station data.
 
-Visualized the last year's precipitation and temperature data.
+Visualized the last 12 months precipitation and temperature data.
 
 Next Steps:
 
